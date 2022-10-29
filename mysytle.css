@@ -1,0 +1,62 @@
+.logo {
+
+    width: 180px !important;
+
+
+}
+
+
+.slide {
+    float: right !important;
+}
+
+h6 {
+    color: red !important;
+}
+
+.on {
+    color: green;
+}
+
+
+.picture {
+
+    margin-left: 90px;
+
+}
+
+.btn {
+
+    border-radius: 10px !important;
+}
+
+
+.row {
+
+    column-gap: 50px;
+
+}
+
+.card {
+
+    height: 100% !important;
+    box-sizing: 50% !important;
+    box-shadow: 30px !important;
+    
+}
+
+.calender {
+
+    width: 20% !important;
+}
+
+.calender1 {
+
+    width: 20% !important;
+    margin-left: 10%;
+}
+
+.card-img-top{
+
+    width: 40%;
+}
